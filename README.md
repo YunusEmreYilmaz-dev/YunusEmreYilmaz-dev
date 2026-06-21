@@ -90,11 +90,7 @@ Abartmadan, dürüstçe ve adım adım ilerlemeyi önemsiyorum. Birlikte öğren
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yilmazyunusemre/yilmazyunusemre/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yilmazyunusemre/yilmazyunusemre/output/github-snake.svg" />
-  <img alt="katkı grafiği yılan animasyonu" src="https://raw.githubusercontent.com/yilmazyunusemre/yilmazyunusemre/output/github-snake.svg" width="100%" />
-</picture>
+
 
 </div>
 
@@ -112,7 +108,7 @@ Bilgisayar Programcılığı eğitimime hazırlanırken bir yandan da HTML/CSS/J
 
 ![Görüntülenme](https://komarev.com/ghpvc/?username=yilmazyunusemre&color=22D3EE&style=flat&label=Profil+Görüntülenme)
 
-📧 [Email](mailto:eposta@adresiniz.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/yilmazyunusemre) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/yilmazyunusemre)
+📧 [Email](mailto:eposta@adresiniz.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/)
 
 <sub>Son güncelleme: Haziran 2026</sub>
 
