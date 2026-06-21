@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **base languages like python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YunusEmreYilmaz-dev](https://github.com/YunusEmreYilmaz-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/yilmazyunusemre](https://github.com/yilmazyunusemre)
 
 - 💬 Ask me about **websites, debugging and more.**
 
