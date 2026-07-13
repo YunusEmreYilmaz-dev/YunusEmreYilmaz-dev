@@ -17,8 +17,6 @@
 
 <br/>
 
-<i>Lise bitti, öğrenme şimdi başlıyor.</i>
-
 </div>
 
 <br/>
