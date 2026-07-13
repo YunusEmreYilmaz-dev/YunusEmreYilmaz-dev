@@ -31,7 +31,7 @@
 
 ### 🧭 Hakkımda
 
-Lise eğitimimi 2026'da tamamladım ve **Bilgisayar Programcılığı** eğitimime başlamaya hazırlanıyorum. Bu profil, öğrenme sürecimi olduğu gibi göstermek ve zaman içinde tamamladığım projeleri bir araya toplamak için var.
+
 
 Şu anda **HTML, CSS, JavaScript, C# ve Python** ile temellerimi sağlamlaştırıyorum; **Unity** ve Android tarafında ilk denemelerimi yapıyorum. En rahat çalıştığım alan ise **Blender** — 3D modelleme ile projelere görsel destek sağlayabiliyorum.
 
