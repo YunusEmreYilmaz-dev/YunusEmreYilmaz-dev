@@ -1,50 +1,37 @@
-<!--
-  📌 KULLANIM REHBERİ (Bu blok GitHub'da görünmez, yorum satırıdır)
-  1) Bu dosyayı, kullanıcı adınla AYNI isimde bir repo açıp (github.com/yilmazyunusemre/yilmazyunusemre)
-     içine "README.md" olarak yükle.
-  2) İletişim satırındaki e-posta / LinkedIn / Instagram linklerini kendi bilgilerinle güncelle.
-  3) 🐍 Aktivite bölümündeki yılan animasyonu için sohbette anlatılan tek seferlik GitHub Actions
-     kurulumunu yapman gerekiyor (snake.yml dosyası).
--->
-
-<br/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=40&pause=900&color=F8FAFC&center=true&vCenter=true&width=620&height=55&lines=Yunus%20Emre%20Y%C4%B1lmaz&repeat=false" alt="isim" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=40&pause=900&color=F8FAFC&center=true&vCenter=true&width=620&height=55&lines=Tenacia+Interactives;Yunus+Emre+Y%C4%B1lmaz" alt="isim" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=22D3EE&center=true&vCenter=true&width=700&height=32&lines=Bilgisayar%20Programc%C4%B1l%C4%B1%C4%9F%C4%B1%20%C3%96%C4%9Frencisi;HTML%20%C2%B7%20CSS%20%C2%B7%20JS%20ile%20Web%20Geli%C5%9Ftiriyorum;Unity%20ile%20Oyun%20Prototipleri%20Yap%C4%B1yorum;Blender%20ile%203D%20Modelleme%20Yap%C4%B1yorum" alt="etiket" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=22D3EE&center=true&vCenter=true&width=700&height=32&lines=Developer--Student+&+Lead+Developer;Building+Indie+Games+&+3D+Experiences;Engineering+Student+in+Training" alt="etiket" />
 
 <br/>
 
 </div>
 
-<br/>
-
 ---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ### 🧭 Hakkımda
 
+Selam! Ben **Tenacia Interactives**'in kurucusuyum. 
 
+Şu anda üniversite giriş sınavlarına hazırlanırken bir yandan da dijital dünyada kendi oyun ve yazılım projelerimi inşa ediyorum. **Unity** ve **C#** ile oyun mekanikleri geliştirmeyi, **Blender** ile düşük poligonlu (low-poly) evrenler tasarlamayı ve **Web teknolojileriyle** projelerimi dijital dünyaya taşımayı seviyorum.
 
-Şu anda **HTML, CSS, JavaScript, C# ve Python** ile temellerimi sağlamlaştırıyorum; **Unity** ve Android tarafında ilk denemelerimi yapıyorum. En rahat çalıştığım alan ise **Blender** — 3D modelleme ile projelere görsel destek sağlayabiliyorum.
-
-Abartmadan, dürüstçe ve adım adım ilerlemeyi önemsiyorum. Birlikte öğrenebileceğim insanlara açığım.
+Her projede daha temiz kod, daha akıcı bir kullanıcı deneyimi ve özgün tasarımlar için çalışıyorum.
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 ### ⚡ Hızlı Bilgiler
 
-🎓 &nbsp;Bilgisayar Programcılığı'na başlıyor
-📍 &nbsp;Türkiye
-🧠 &nbsp;Şu an: HTML/CSS/JS, C#, Python
-🧊 &nbsp;En güçlü alan: Blender (3D)
-🎯 &nbsp;Hedef: Full-Stack + Oyun Geliştirme
+🎓 &nbsp;Mühendislik Adayı (Gap Year)
+📍 &nbsp;İstanbul, Türkiye
+🎮 &nbsp;Focus: Game Dev & Studio Operations
+🧊 &nbsp;Main Tool: Blender & Unity
+🚀 &nbsp;Mission: Tenacia Interactives
 
 </td>
 </tr>
@@ -52,61 +39,70 @@ Abartmadan, dürüstçe ve adım adım ilerlemeyi önemsiyorum. Birlikte öğren
 
 ---
 
-### 🧰 Teknoloji
+### 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,py,unity,androidstudio,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,py,unity,blender,docker,vscode&theme=dark" />
 
-<sub>Web &nbsp;·&nbsp; Algoritma & Backend Mantığı &nbsp;·&nbsp; Oyun & Mobil &nbsp;·&nbsp; 3D Tasarım</sub>
+<sub>Web · Backend · Game Dev · 3D Modeling</sub>
 
 </div>
+
+---
+
+### 📊 GitHub Aktivite
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yilmazyunusemre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=yilmazyunusemre&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazyunusemre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" />
+
+</div>
+
+---
+
+### 🛠️ Tenacia Studio & Projects
+*İnşa ettiğim projeleri ve studio güncellemelerini buradan takip edebilirsin.*
+
+- 🏗️ **Under Construction:** [Proje Adı Gelecek] - *Unity & C#*
+- 🧊 **Assets:** Blender ile hazırlanan özel 3D paketler.
+- 🌐 **Web:** Portfolyo ve studio sayfası (Yakında).
+
+---
+
+---
+
+<div align="center">
+
+### 🌐 Tenacia Interactives Ecosystem
 
 <br/>
 
-| Alan | Araçlar | Şu Anki Seviyem |
-|---|---|---|
-| Web Geliştirme | HTML5 · CSS3 · JavaScript | ▰▰▰▱▱ Temel – Orta |
-| Algoritma & Programlama Mantığı | C# · Python | ▰▰▰▱▱ Temel – Orta |
-| Oyun & Mobil Geliştirme | Unity · Android | ▰▰▱▱▱ Temel |
-| 3D Modelleme & Tasarım | Blender | ▰▰▰▰▱ İleri Düzey |
-
----
-
-### 📊 Aktivite
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yilmazyunusemre&show_icons=true&theme=city-lights&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=yilmazyunusemre&theme=city-lights&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazyunusemre&layout=compact&theme=city-lights&hide_border=true&langs_count=8" width="55%" />
-
-</div>
-
-
-<div align="center">
-
-
-
-</div>
-
----
-
-### 🎯 Şu An
-
-Bilgisayar Programcılığı eğitimime hazırlanırken bir yandan da HTML/CSS/JS ile ilk kapsamlı web projemi, Unity üzerinde küçük bir oyun prototipini ve Python ile basit otomasyon denemelerini bitirmeye çalışıyorum. Tamamladığım projeler oldukça bu sayfa gerçek bağlantılarla güncellenecek.
-
----
+<a href="https://itch.io/profile/tenacia" target="_blank">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+</a>
+<a href="https://discord.gg/DAVET_LINKIN_BURAYA" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:tenaciainteractives@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.tenaciainteractives.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 <br/>
+<sub><i>Stüdyo güncellemeleri ve projeler için takipte kal.</i></sub>
+
+</div>
 
 <div align="center">
 
-![Görüntülenme](https://komarev.com/ghpvc/?username=yilmazyunusemre&color=22D3EE&style=flat&label=Profil+Görüntülenme)
+![Görüntülenme](https://komarev.com/ghpvc/?username=yilmazyunusemre&color=22D3EE&style=flat&label=Profil+Ziyareti)
 
-📧 [Email](mailto:eposta@adresiniz.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/)
-
-<sub>Son güncelleme: Haziran 2026</sub>
+<sub>© 2026 Tenacia Interactives · Son Güncelleme: Temmuz 2026</sub>
 
 </div>
